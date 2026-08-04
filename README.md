@@ -17,5 +17,5 @@ ABC Company employee dataset
 .explored the dataset
 .analyzed employee salary by team
 .creatrd visulizations
-##C0nclusion
+##Conclusion
 This project analyzed the ABC Company employee dataset. The analysis helped identity salary distribution across teams and provided useful insights through data visualization
